@@ -14,7 +14,7 @@ const faza = {
 }
 ```
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects – Explore My Work!
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects – Explore My Work!
 
 Curious about what I’ve been working on?
 
