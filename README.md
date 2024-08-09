@@ -14,7 +14,7 @@ const faza = {
 }
 ```
 
-## 💡 My Projects – Explore My Work!
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> My Projects – Explore My Work!
 
 Curious about what I’ve been working on?
 
@@ -25,9 +25,9 @@ Check out my repositories to see my latest projects and experiments:
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-- 📧 **Email**: [Mail](mailto:fazaulfath17@gmail.com)
-- 💼 **LinkedIn**: [Linkedin](https://linkedin.com/in/faza-ulfath-045033230)
-- 🌐 **Portfolio**: [Portfolio](https://fazaulfath.netlify.app/)
+- 📧 [Email](mailto:fazaulfath17@gmail.com)
+- 💼 [Linkedin](https://linkedin.com/in/faza-ulfath-045033230)
+- 🌐 [Portfolio](https://fazaulfath.netlify.app/)
 
 ---
 
