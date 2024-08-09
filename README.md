@@ -7,7 +7,7 @@ Welcome to my GitHub profile! 🌐 I’m a passionate Software Developer and AI/
 
 🎓 3rd-Year Student | Bachelor of Engineering in Computer Science & Engineering (AI/ML)
 
-🌱 Currently Learning: Python 🐍, AI 🤖, Web Development 🌍, and IoT 🌐
+🌱 Currently Learning: Data Science, AI, ML, and Cybersecurity
 
 🎯 Goal: To build innovative solutions that make life smarter, safer, and more connected.
 
