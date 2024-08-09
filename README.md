@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Faza Ulfath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="center">Student | Freelancer | Open Source Contributor | Developer | Innovator | Tech Enthusiast</h3>
+<h3 align="center">Student | Open Source Contributor | Developer | Innovator | Tech Enthusiast</h3>
 
 Welcome to my GitHub profile! I’m a passionate AI/ML enthusiast, constantly exploring the ever-evolving world of technology. Whether it’s coding, AI, web development, or IoT, I’m always on a mission to learn and create.
 
@@ -14,7 +14,7 @@ const faza = {
 }
 ```
 
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> My Projects – Explore My Work!
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Projects – Explore My Work!
 
 Curious about what I’ve been working on?
 
@@ -22,7 +22,7 @@ Check out my repositories to see my latest projects and experiments:
 
 **🔗 [My GitHub Repositories](https://github.com/fazaulfath?tab=repositories)**
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 - 📧 [Email](mailto:fazaulfath17@gmail.com)
