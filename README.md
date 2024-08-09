@@ -1,15 +1,18 @@
-<h1 align="center">Hi there, I'm Faza Ulfath! 👋</h2>
+<h1 align="center">Hi, I'm Faza Ulfath! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center">Student | Freelancer | Open Source Contributor | Developer | Innovator | Tech Enthusiast</h3>
 
 Welcome to my GitHub profile! I’m a passionate AI/ML enthusiast, constantly exploring the ever-evolving world of technology. Whether it’s coding, AI, web development, or IoT, I’m always on a mission to learn and create.
 
-## 🚀 A Little About Me
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-🎓 3rd-Year Student | Bachelor of Engineering in Computer Science & Engineering (AI/ML)
-
-🌱 Currently Learning: Data Science, AI, ML, and Cybersecurity
-
-🎯 Goal: To build innovative solutions that make life smarter, safer, and more connected.
+```javascript
+const faza = {
+  education: "3rd-Year Student | Bachelor of Engineering in Computer Science & Engineering (AI/ML)",
+  interests: [AI, ML, DataScience, Cybersecurity, Web Development]
+  code: [C, C++, Java, Python, HTML, CSS, JavaScript],
+  frameworks: [React, Angular, Node, Django, Flask],
+}
+```
 
 ## 💡 My Projects – Explore My Work!
 
@@ -19,13 +22,12 @@ Check out my repositories to see my latest projects and experiments:
 
 **🔗 [My GitHub Repositories](https://github.com/fazaulfath?tab=repositories)**
 
-### 🌍 Let’s Connect!
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
-I’m always open to new opportunities, collaborations, and conversations. Feel free to reach out!
 
 - 📧 **Email**: [Mail](mailto:fazaulfath17@gmail.com)
 - 💼 **LinkedIn**: [Linkedin](https://linkedin.com/in/faza-ulfath-045033230)
-- 🌐 **Portfolio**: [Portfolio](https://fazaulfath.netlify.app/))
+- 🌐 **Portfolio**: [Portfolio](https://fazaulfath.netlify.app/)
 
 ---
 
