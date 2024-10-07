@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate AI/ML enthusiast, constantly ex
 
 ```javascript
 const faza = {
-  education: "3rd-Year Student | Bachelor of Engineering in Computer Science & Engineering (AI/ML)",
+  education: "4th-Year Student | Bachelor of Engineering in Computer Science & Engineering (AI/ML)",
   interests: [AI, ML, DataScience, Cybersecurity, Web Development]
   code: [C, C++, Java, Python, HTML, CSS, JavaScript],
   frameworks: [React, Angular, Node, Django, Flask],
