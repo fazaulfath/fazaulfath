@@ -27,7 +27,7 @@ Check out my repositories to see my latest projects and experiments:
 
 - 📧 [Email](mailto:fazaulfath17@gmail.com)
 - 💼 [Linkedin](https://linkedin.com/in/faza-ulfath-045033230)
-- 🌐 [Portfolio](https://fazaulfath.netlify.app/)
+- 🌐 [Portfolio]([https://fazaulfath.vercel.app/])
 
 ---
 
